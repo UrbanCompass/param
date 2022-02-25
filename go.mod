@@ -1,1 +1,1 @@
-module github.com/goji/param
+module github.com/UrbanCompass/param
